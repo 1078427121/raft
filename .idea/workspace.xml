@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="558ac743-39b1-4d9c-ab46-81873a9bc231" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="D:/software/go" />
+  <component name="ProjectId" id="1l8lPf3qfXZlwdP606UU4yood1k" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Go Test.TestBackup in test_test.go">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestBackup in raft" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="NJU-DisSys-2017" />
+      <working_directory value="$PROJECT_DIR$/src/raft" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="raft" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestBackup$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestBackup in test_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="NJU-DisSys-2017" />
+      <working_directory value="$PROJECT_DIR$/src/raft" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/src/raft/test_test.go" />
+      <pattern value="^TestBackup$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestConcurrentStarts in raft" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="NJU-DisSys-2017" />
+      <working_directory value="$PROJECT_DIR$/src/raft" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="raft" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestConcurrentStarts$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestInitialElection in test_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="NJU-DisSys-2017" />
+      <working_directory value="$PROJECT_DIR$/src/raft" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/src/raft/test_test.go" />
+      <pattern value="^TestInitialElection$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestRejoin in raft" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="NJU-DisSys-2017" />
+      <working_directory value="$PROJECT_DIR$/src/raft" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="raft" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestRejoin$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestBackup in test_test.go" />
+        <item itemvalue="Go Test.TestInitialElection in test_test.go" />
+        <item itemvalue="Go Test.TestBackup in raft" />
+        <item itemvalue="Go Test.TestRejoin in raft" />
+        <item itemvalue="Go Test.TestConcurrentStarts in raft" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="558ac743-39b1-4d9c-ab46-81873a9bc231" name="Default" comment="" />
+      <created>1508750596625</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1508750596625</updated>
+      <workItem from="1606986579788" duration="204000" />
+      <workItem from="1607159428836" duration="204000" />
+      <workItem from="1607263768559" duration="206000" />
+      <workItem from="1607309402846" duration="932000" />
+      <workItem from="1607346696872" duration="6497000" />
+      <workItem from="1607392790066" duration="6324000" />
+      <workItem from="1607414159667" duration="3455000" />
+      <workItem from="1607417672399" duration="58000" />
+      <workItem from="1607432679039" duration="3287000" />
+      <workItem from="1607437796762" duration="408000" />
+      <workItem from="1607478806483" duration="6467000" />
+      <workItem from="1607499425197" duration="2296000" />
+      <workItem from="1607517230631" duration="7586000" />
+      <workItem from="1607587508001" duration="4631000" />
+      <workItem from="1607596178853" duration="8660000" />
+      <workItem from="1607688462519" duration="3492000" />
+      <workItem from="1607739328143" duration="4796000" />
+      <workItem from="1607770516725" duration="6215000" />
+      <workItem from="1607825646435" duration="2163000" />
+      <workItem from="1607854169137" duration="16860000" />
+      <workItem from="1607912157936" duration="5304000" />
+      <workItem from="1607920327704" duration="1457000" />
+      <workItem from="1607934944274" duration="2705000" />
+      <workItem from="1607950266858" duration="718000" />
+      <workItem from="1607951476782" duration="7443000" />
+      <workItem from="1607997527998" duration="681000" />
+      <workItem from="1608013635012" duration="8815000" />
+      <workItem from="1608028753906" duration="5943000" />
+      <workItem from="1608366668658" duration="1422000" />
+      <workItem from="1608551781202" duration="52000" />
+      <workItem from="1608551941048" duration="120000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#GOPATH" timestamp="1606986669378">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#GOPATH/0.0.1920.1040@0.0.1920.1040" timestamp="1606986669378" />
+    <state x="552" y="178" key="#GOROOT" timestamp="1606986649857">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#GOROOT/0.0.1920.1040@0.0.1920.1040" timestamp="1606986649857" />
+    <state x="1129" y="263" key="#com.intellij.ide.util.MemberChooser" timestamp="1607691909412">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1129" y="263" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1607691909412" />
+    <state x="905" y="154" key="#go_build_raft.go" timestamp="1607483976408">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="905" y="154" key="#go_build_raft.go/0.0.1920.1040@0.0.1920.1040" timestamp="1607483976408" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1608551830505">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1608551830505" />
+    <state width="1060" height="344" key="GridCell.Tab.0.bottom" timestamp="1607958925040">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1060" height="344" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607958925040" />
+    <state width="1060" height="344" key="GridCell.Tab.0.center" timestamp="1607958925040">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1060" height="344" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607958925040" />
+    <state width="1060" height="344" key="GridCell.Tab.0.left" timestamp="1607958925040">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1060" height="344" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607958925040" />
+    <state width="1060" height="344" key="GridCell.Tab.0.right" timestamp="1607958925040">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1060" height="344" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607958925040" />
+    <state width="1133" height="344" key="GridCell.Tab.1.bottom" timestamp="1607872480298">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1133" height="344" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607872480298" />
+    <state width="1133" height="344" key="GridCell.Tab.1.center" timestamp="1607872480298">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1133" height="344" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607872480298" />
+    <state width="1133" height="344" key="GridCell.Tab.1.left" timestamp="1607872480298">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1133" height="344" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607872480298" />
+    <state width="1133" height="344" key="GridCell.Tab.1.right" timestamp="1607872480298">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1133" height="344" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607872480298" />
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1607263777247">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607263777247" />
+    <state x="1109" y="286" width="672" height="678" key="search.everywhere.popup" timestamp="1607914745764">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1109" y="286" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607914745764" />
+  </component>
+</project>
